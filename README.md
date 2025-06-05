@@ -1,12 +1,15 @@
 # ReturnComplaintsManagementJosephN
 Module de gestion des retours et réclamations permettant aux clients de soumettre une demande et aux administrateurs de les traiter. Interface avec formulaire de soumission, tableau de bord filtrable, et notifications visuelles (SweetAlert2, badges colorés).
+
 # 📦 Returns & Complaints Management System
 
-A full-stack application built with **Spring Boot** and **Angular**, allowing customers to submit product return or complaint requests, and admins to manage them via a dashboard. Includes **Swagger UI**, **SweetAlert2**, and a PostgreSQL database.
+Application Fullstack réalisée à l'aide des technologies **Spring Boot** et **Angular**, permettant aux clients de soumettre des réclamations et aux administrateurs de traiter les demandes depuis un interface 
+
+Includes **Swagger UI**, **SweetAlert2**, and a PostgreSQL database.
 
 ---
 
-## 🚀 Technologies Used
+## 🚀 Technologies Utilisées 
 
 * **Backend**: Java, Spring Boot, PostgreSQL
 * **Frontend**: Angular 17, SweetAlert2
@@ -14,7 +17,7 @@ A full-stack application built with **Spring Boot** and **Angular**, allowing cu
 
 ---
 
-## 📁 Project Structure
+## 📁 Structure du projet 
 
 ```
 returns-complaints-management/
